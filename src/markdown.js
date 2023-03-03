@@ -33,7 +33,7 @@ function renderLicenseSection(license) {
 }
 
 // Generate markdown for README
-function markdown(data) {
+function genMarkdown(data) {
 return `# ${data.title}
 ${renderLicenseBadge(data.licenses)}
 ## Table of Contents
@@ -71,4 +71,4 @@ ${data.name}
 `;
 }
 
-module.exports = markdown;
+module.exports = genMarkdown;
