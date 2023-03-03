@@ -19,7 +19,12 @@
 A simple README generator template using nodejs
 
 ## Demonstration
-       
+
+
+https://user-images.githubusercontent.com/113956697/222638556-4f0495ac-6c0c-4072-abe9-4ac962232157.mp4
+
+
+
 ## Installation
 You must install nodejs and then in the terminal use npm install -y to install all required modules
     
